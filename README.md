@@ -1,2 +1,3 @@
-![Welcome to my channel (1)](https://github.com/user-attachments/assets/f89469ae-1034-40cf-8310-0b925c2d68df)
+![Welcome to my channel (2)](https://github.com/user-attachments/assets/5cd97403-a0a0-4710-a337-926056854271)
+<br>
 I'm a first year BE(CSE) STUDENT PASSIONATE ABOUT CODING AND INNOVATION...
