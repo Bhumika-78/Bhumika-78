@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Bhumika&height=200&text=I%20am%20Venom.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![header](https://capsule-render.vercel.app/api?type=bhumika&height=200&text=I%20am%20Venom.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 <br>
 Undergrad | CSE in progress...
 <br> 
@@ -15,7 +15,7 @@ Undergrad | CSE in progress...
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bhumika-78&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bhumika-78&theme=neon&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Bhumika-78&theme=neon&hide_border=false)<br/
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika-78&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
