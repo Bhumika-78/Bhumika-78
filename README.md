@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=bhumika&height=200&text=I%20am%20Venom.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![header](https://capsule-render.vercel.app/api?type=bhumika&height=200&text=I%20am%20Bhumika.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 <br>
 Undergrad | CSE in progress...
 <br> 
