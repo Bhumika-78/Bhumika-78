@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=40&desc=Desc&descSize=30) 
-<br>
 Undergrad | CSE in progress...
 <br> 
 <br>
@@ -30,6 +28,52 @@ Undergrad | CSE in progress...
 
 
 <br>
+
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+
+  <a href="https://stacktopia.vercel.app/">
+    <img
+      src="https://github.com/user-attachments/assets/1947c1c4-5f83-46d4-8a19-c11894a82d6e"
+      width="100%"
+      alt="Stacking Life Is Good GIF by sillynub"
+    />
+  </a>
+
+</td>
+
+<td width="45%" align="left" valign="middle">
+
+  <h2>🎮 STACKTOPIA</h2>
+
+  <h3>
+    Take a break from scrolling.<br/>
+    Stack some blocks.
+  </h3>
+
+  <p>
+    A little timing, a little skill,<br/>
+    and probably one more retry.
+  </p>
+
+  <br/>
+
+  <a href="https://stacktopia.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/▶_PLAY_NOW-FF4D70?style=for-the-badge"
+      alt="Play StackTopia"
+    />
+  </a>
+
+  <br/><br/>
+
+  <sub>BUILD · STACK · CONQUER</sub>
+
+</td>
+</tr>
+</table>
+
 
 
 <img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" alt="Back to the Top"/>
