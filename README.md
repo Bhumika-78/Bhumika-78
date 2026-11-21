@@ -2,8 +2,22 @@
 
 <div align="center">
 
-  <h1>Hi there, I'm Bhumika 👋</h1>
-  <h3>Undergrad | CSE in progress...</h3>
+  <table width="100%">
+    <tr>
+      <td align="center" bgcolor="#0B1320">
+        <br/>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=2800&pause=10000&color=22D3EE&center=true&vCenter=true&repeat=false&width=700&height=65&lines=Hi%2C+I'm+Bhumika+%E2%9C%A6" alt="Hi, I'm Bhumika ✦" />
+        </a>
+        <br/>
+        <img src="https://img.shields.io/badge/CSE_Undergrad-132238?style=for-the-badge&logo=readthedocs&logoColor=22D3EE" alt="CSE Undergrad" />
+        <img src="https://img.shields.io/badge/Exploring_%26_Developing-132238?style=for-the-badge&logo=terminal&logoColor=FDBA74" alt="Exploring & Developing" />
+        <br/><br/>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
 
   <p>
     <a href="https://linkedin.com/in/bhumika78">
@@ -12,38 +26,13 @@
     <a href="mailto:bhumika.codes@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=Bhumika-78&icon=9&color=0" alt="Profile Views" />
+    <a href="https://github.com/Bhumika-78">
+      <img src="https://img.shields.io/github/followers/Bhumika-78?style=for-the-badge&logo=github&label=Followers&color=1E293B" alt="GitHub Followers" />
     </a>
   </p>
 
 </div>
 
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-  **Languages**  
-  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-
-  **Frontend & Styling**  
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
-
-  **Cloud, Tools & Platforms**  
-  ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=%2300C7B7)
-  ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
-  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
-
-</div>
 
 <br/>
 
@@ -78,11 +67,6 @@
     Stack some blocks.
   </h3>
 
-  <p>
-    A little timing, a little skill,<br/>
-    and probably one more retry.
-  </p>
-
   <br/>
 
   <a href="https://stacktopia.vercel.app/">
@@ -93,8 +77,6 @@
   </a>
 
   <br/><br/>
-
-  <sub>BUILD · STACK · CONQUER</sub>
 
 </td>
 </tr>
@@ -109,18 +91,18 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Bhumika-78&theme=neon&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Bhumika-78&theme=neon&hide_border=false" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Bhumika-78&theme=neon&hide_border=false" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=Bhumika-78&theme=neon&hide_border=false" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika-78&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika-78&theme=neon&hide_border=false&layout=compact" alt="Top Languages" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Bhumika-78&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhumika-78&theme=radical" alt="Repos per Language" />
       </td>
     </tr>
   </table>
@@ -129,10 +111,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhumika-78&theme=neon&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhumika-78&theme=react-dark&hide_border=false" alt="GitHub Activity Graph" />
 </div>
 
 <br/>
